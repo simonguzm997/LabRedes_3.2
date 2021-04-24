@@ -1,0 +1,12 @@
+Date of the test: 2021-04-23 11-56-06
+Name connection amount: 5
+Client Number: 1
+------------------------------------------
+My connection info: 
+My Ip: 192.168.0.3
+My Port: 53417
+------------------------------------------
+Successfull delivery: True
+Transfer time: 0:19:58.288386
+Packet Number: 102401
+Hash Verification: VERIFIED 

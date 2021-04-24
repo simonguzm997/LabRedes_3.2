@@ -1,0 +1,24 @@
+Date of the test: 2021-04-23 17-18-17
+Name of the sent file: 100MBF.txt
+Size of the sent file: 100MB
+------------------------------------------
+Client ip: 192.168.0.3 port: 57945
+Successfull delivery: True
+Transfer time: 0:19:49.282495
+Packet Number: 102400
+Client ip: 192.168.0.3 port: 54967
+Successfull delivery: True
+Transfer time: 0:19:50.688028
+Packet Number: 102400
+Client ip: 192.168.0.3 port: 57944
+Successfull delivery: True
+Transfer time: 0:19:50.817996
+Packet Number: 102400
+Client ip: 192.168.0.3 port: 57942
+Successfull delivery: True
+Transfer time: 0:19:52.046344
+Packet Number: 102400
+Client ip: 192.168.0.3 port: 57946
+Successfull delivery: True
+Transfer time: 0:19:54.138882
+Packet Number: 102400
